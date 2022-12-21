@@ -1,3 +1,3 @@
-# startup-of-the-year
+# startup-of-the-century
 Starter project!
-*visist https://zerotomastery.io/ for more*
+https://jcfullstack81.github.io/startup-of-the-century
