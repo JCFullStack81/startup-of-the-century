@@ -1,2 +1,3 @@
-# startup-of-the-century
-Sign-up website for startup
+# startup-of-the-year
+Starter project!
+*visist https://zerotomastery.io/ for more*
